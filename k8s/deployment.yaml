@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: bluenest
-        image: allasriharsha/bluenest:latest
+        image: sriharshaalla/bluenest:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 80
